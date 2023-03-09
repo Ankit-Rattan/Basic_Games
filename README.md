@@ -1,2 +1,2 @@
 # Mini_Projects
-This is my Game I learned to make. 
+This is my first basic Game I learned to make. 
